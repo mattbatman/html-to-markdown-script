@@ -1,6 +1,6 @@
 # HTML to Markdown Script
 
-This was written specifically for my project [Nootropic Cat Treats](https://github.com/mattbatman/nootropic-cat-treats) to convert a single JSON file to a folder containing markdown files, one for each element in the original JSON file.
+This was written specifically for my project [Nootropic Cat Treats](https://github.com/mattbatman/nootropic-cat-treats) to convert a single JSON file with HTML mark-up to a folder containing markdown files, one for each element in the original JSON file.
 
 ## Getting Started
 
