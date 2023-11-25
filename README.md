@@ -36,8 +36,6 @@ An example was:
 ]
 ```
 
-This script will take the JSON file of quote data, and create a new markdown file out of each item in the JSON array.
-
 The above quote was output as a file called `1-Steve Zissou.md` with the content:
 ```
 ---
