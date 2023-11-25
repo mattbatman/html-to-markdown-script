@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "description": "A script to turn HTML to markdown",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Matt Batman",
   "license": "ISC",
