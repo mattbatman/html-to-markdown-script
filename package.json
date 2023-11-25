@@ -1,0 +1,14 @@
+{
+  "name": "html-to-markdown-script",
+  "version": "1.0.0",
+  "description": "A script to turn HTML to markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Batman",
+  "license": "ISC",
+  "dependencies": {
+    "turndown": "^7.1.2"
+  }
+}
